@@ -1,0 +1,42 @@
+ファイル名とレイヤ名のみ：大文字から始める
+それ以外の拡張子系(.png.maxなど):小文字から始める
+
+例:
+eyelash_ まつ毛
+noelDoll_　ノエルのぬいぐるみ
+
+固有名詞_データの型_位置or番号 (01,02...10で表記すること)
+
+例:
+head_mesh 頭_メッシュ(ポリゴン)
+spine_bip_01　腰_Biped_子01番目
+thigh_bip_R　太もも_Biped_右側
+
+データ型
+mesh		ポリゴン
+bip		Biped
+bone		ボーン(骨)
+light		シャドウ付きライト
+lightEffect	シャドウなしライト
+camera		カメラ
+help		参考資料、
+
+ 位置
+F:flont
+B:back
+R:right
+L:left
+C:center
+U:up
+D:down
+T:top
+
+
+
+レイヤー　レンダリング別に分ける
+Camera		カメラ
+BG(BackGround)	背景
+Light		ライト
+Shadow		影を表示するオブジェクト(床、壁など)
+Object		動かない影に影響されないオブジェクト
+キャラクター名	動物系、生き物はその名前をつける
