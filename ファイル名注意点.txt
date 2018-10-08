@@ -17,9 +17,13 @@ mesh		ポリゴン
 bip		Biped
 bone		ボーン(骨)
 light		シャドウ付きライト
-lightEffect	シャドウなしライト
+(lightEffect)	シャドウなしライト
 camera		カメラ
 help		参考資料、
+jnt		ジョイント
+ik		IKハンドル
+trs		トランスフォーム
+grp		グループ
 
  位置
 F:flont
@@ -30,8 +34,6 @@ C:center
 U:up
 D:down
 T:top
-
-
 
 レイヤー　レンダリング別に分ける
 Camera		カメラ

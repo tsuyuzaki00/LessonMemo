@@ -1,22 +1,22 @@
 root：足元　or
 COG(center of gravity)重心
  pelvis：腰
-  upperLeg：太もも
-　　leg：ふくらはぎ
+  upLeg：太もも
+　　lowLeg：ふくらはぎ
 　　　ankle：足首
         foot：足先
   spine：背中
    neck：首
     head：頭
    shoulder：肩
-    upperArm：腕
-     foreArm：肘
+    upArm：腕
+     lowArm：肘
       hand：手首
+       thumb：親指
        index：人差し指
-       little：小指
        middle：中指
        ring：薬指
-       thumb：親指
+       little：小指
 
 ear：耳
 eye：目
@@ -25,3 +25,4 @@ mouth：口
 Tongue：舌
 face：顔
 hair：髪
+
