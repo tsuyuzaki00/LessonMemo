@@ -24,6 +24,9 @@ jnt		ジョイント
 ik		IKハンドル
 trs		トランスフォーム
 grp		グループ
+ctrl		コントローラー
+line		スプライン/カーブ/ライン
+layer		レイヤー名
 
  位置
 F:flont
@@ -34,11 +37,3 @@ C:center
 U:up
 D:down
 T:top
-
-レイヤー　レンダリング別に分ける
-Camera		カメラ
-BG(BackGround)	背景
-Light		ライト
-Shadow		影を表示するオブジェクト(床、壁など)
-Object		動かない影に影響されないオブジェクト
-キャラクター名	動物系、生き物はその名前をつける

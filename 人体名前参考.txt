@@ -22,7 +22,7 @@ ear：耳
 eye：目
 tail：尻尾
 mouth：口
-Tongue：舌
+tongue：舌
 face：顔
 hair：髪
-
+jaw：顎
